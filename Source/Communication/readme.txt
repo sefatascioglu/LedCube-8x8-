@@ -1,1 +1,0 @@
-buraya ilgili modulun filelarini ekleriz
